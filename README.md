@@ -1,7 +1,7 @@
 # YouTube_Clone
 Technologies used: ReactJs,Material_UI,YouTube V3 API
 
-Snapshots of the Projects:
+Screenshots of the Projects:
 ![intro](https://user-images.githubusercontent.com/111693417/214636428-bb75b8fd-4800-4bdc-9d99-d9357335414a.png)
 
 
